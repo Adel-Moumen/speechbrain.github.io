@@ -899,7 +899,6 @@ button:focus {
   background-color: #3bacf0;
   border-color: #eee; }
 
-
 .speaker-cards {
   display: flex;
   flex-wrap: wrap;
@@ -949,7 +948,6 @@ button:focus {
   line-height: 1.5;
   text-align: justify;
 }
-
   
 /*============ Start Blog Single Styles  =============*/
 .single-post-area .social-links {
